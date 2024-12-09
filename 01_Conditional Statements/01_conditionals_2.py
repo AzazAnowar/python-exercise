@@ -8,9 +8,9 @@ marksInt = int(marks)
 
 if (marksInt >= 90):
     print("Your grade is A")
-elif(marksInt >=80 and marksInt <=89):
+elif(marksInt >= 80 and marksInt <= 89):
     print("Your grade is B")
-elif(marksInt >=70 and marksInt<= 79):
+elif(marksInt >= 70 and marksInt<= 79):
     print("Your grade is C")
 else:
     print("Your grade is F")

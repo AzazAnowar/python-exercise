@@ -1,0 +1,3 @@
+Create a program that appends a new line to an existing file and then reads
+and displays the entire file content.
+This is a new line.

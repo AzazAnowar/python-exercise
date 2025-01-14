@@ -1,3 +1,12 @@
+"""
+Develop a grade calculator that takes a student's percentage as input and
+assigns a grade based on the following criteria:
+o 90% and above: A
+o 80-89%: B
+o 70-79%: C
+o Below 70%: F
+"""
+
 # name = input("Enter Your Name: ")
 # print("Your name is :",name)
 

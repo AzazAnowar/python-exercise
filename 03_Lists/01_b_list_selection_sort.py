@@ -1,3 +1,8 @@
+"""
+Write a program that takes a list of integers and sorts it without using built-in
+functions. Implement your own sorting algorithm, such as bubble sort or selection sort.
+"""
+
 # ASCENDING ORDER SELECTION SORT
 def asc_selection_sort(arr):
     n = len(arr)

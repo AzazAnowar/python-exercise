@@ -1,3 +1,8 @@
+"""
+Write a recursive function to find the Greatest Common Divisor (GCD) of
+two numbers using the Euclidean algorithm.
+"""
+
 def gcd(a, b):
     if b == 0:
         return a

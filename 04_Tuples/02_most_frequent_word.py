@@ -1,3 +1,8 @@
+"""
+Write a program that takes a tuple of numbers and returns a new tuple
+containing the cumulative sum at each index.
+"""
+
 def cumulative_sum(tpl):
     total = 0
     result = []

@@ -1,4 +1,9 @@
 """
+Write a program that takes a list of integers and sorts it without using built-in
+functions. Implement your own sorting algorithm, such as bubble sort or selection sort.
+"""
+
+"""
 # TOO MANY ITERATION IN THIS LOOP. WE CAN SEE THAT THE LAST POSITION WILL ALWAYS LARGEST IS ASCENDING ORDER
 # SO WE CAN DO N-1 FOR 2nd PASS
 def bubble_sort(arr):

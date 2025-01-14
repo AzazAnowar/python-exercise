@@ -1,4 +1,9 @@
 """
+Create a function that splits a list into two separate lists—one containing all
+even numbers, the other containing all odd numbers.
+"""
+
+"""
 returning multiple values as tuples
 
 import math

@@ -1,3 +1,8 @@
+"""
+Create a function that takes a list of numbers and a target number as input
+and returns a list of tuples, where each tuple has two numbers that add up to the target.
+"""
+
 def find_pairs(numbers, target):
     pairs = []
     for i in range(len(numbers)):

@@ -1,3 +1,8 @@
+"""
+Write a program that takes the current time in hours and checks if a store is
+open or closed. The store operates from 9 AM to 9 PM.
+"""
+
 import time
 
 # taking the current time in now veraiable

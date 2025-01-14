@@ -1,3 +1,7 @@
+"""
+Write a program to display all prime numbers between 1 and 100 using a
+nested loop.
+"""
 #prime number
 
 def is_prime(num):
